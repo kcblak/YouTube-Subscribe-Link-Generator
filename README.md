@@ -34,7 +34,7 @@ The YouTube Subscribe Link Generator plugin allows you to upload a CSV file cont
 ## Screenshots
 
 1. **Admin Page for Uploading CSV**  
-   ![Admin Page for Uploading CSV](Admin Page for Uploading CSV.jpg)
+   ![Admin Page for Uploading CSV](https://github.com/kcblak/YouTube-Subscribe-Link-Generator/blob/master/Admin%20Page%20for%20Uploading%20CSV.jpg)
 
 
 
